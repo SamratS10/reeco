@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/recco/static/css/main.ffe34ec7.css",
-    "main.js": "/recco/static/js/main.52756801.js",
-    "static/js/787.94bc004f.chunk.js": "/recco/static/js/787.94bc004f.chunk.js",
-    "index.html": "/recco/index.html",
-    "main.ffe34ec7.css.map": "/recco/static/css/main.ffe34ec7.css.map",
-    "main.52756801.js.map": "/recco/static/js/main.52756801.js.map",
-    "787.94bc004f.chunk.js.map": "/recco/static/js/787.94bc004f.chunk.js.map"
+    "main.css": "/reeco/static/css/main.ffe34ec7.css",
+    "main.js": "/reeco/static/js/main.80a63f73.js",
+    "static/js/787.94bc004f.chunk.js": "/reeco/static/js/787.94bc004f.chunk.js",
+    "index.html": "/reeco/index.html",
+    "main.ffe34ec7.css.map": "/reeco/static/css/main.ffe34ec7.css.map",
+    "main.80a63f73.js.map": "/reeco/static/js/main.80a63f73.js.map",
+    "787.94bc004f.chunk.js.map": "/reeco/static/js/787.94bc004f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffe34ec7.css",
-    "static/js/main.52756801.js"
+    "static/js/main.80a63f73.js"
   ]
 }
