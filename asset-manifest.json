@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recco/static/css/main.ffe34ec7.css",
+    "main.js": "/recco/static/js/main.52756801.js",
+    "static/js/787.94bc004f.chunk.js": "/recco/static/js/787.94bc004f.chunk.js",
+    "index.html": "/recco/index.html",
+    "main.ffe34ec7.css.map": "/recco/static/css/main.ffe34ec7.css.map",
+    "main.52756801.js.map": "/recco/static/js/main.52756801.js.map",
+    "787.94bc004f.chunk.js.map": "/recco/static/js/787.94bc004f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.52756801.js"
+  ]
+}
