@@ -14,7 +14,6 @@ font-size:15px;
 font-family:"Roboto;
 `;
 const ContainerHeading = styled.h2`
-font-size:2px; 
 font-family:"Roboto";
 `;
 
