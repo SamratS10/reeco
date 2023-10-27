@@ -1,5 +1,13 @@
+import styled from "styled-components";
 import Details from "./aboutDetails";
-import { Box } from "./style";
+const Box = styled.div`
+margin:20px 90px;
+border:solid 0.5px #D0D0D0;
+display:flex;
+padding:10px;
+background-color:white;
+box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+`;
 
 const OrderDetails = ()=>{
 
